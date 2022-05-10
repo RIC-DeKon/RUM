@@ -1,0 +1,2 @@
+# RUM
+Riecoin Ultimate Miner
